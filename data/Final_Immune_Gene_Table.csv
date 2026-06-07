@@ -1,0 +1,9 @@
+"Timepoint","SYMBOL","GENENAME","log2FC","padj"
+"1 dpi","npas4a","neuronal PAS domain protein 4a",2.44858350338807,2.93445503648232e-09
+"1 dpi","si:dkey-221j11.3","si:dkey-221j11.3",1.38633441756432,0.00198219375096211
+"1 dpi",NA,NA,2.15966119913734,7.68127104315591e-08
+"1 dpi","si:dkey-247k7.2","si:dkey-247k7.2",1.6667128910267,0.00198219375096211
+"3 dpi","cetp","cholesteryl ester transfer protein, plasma",3.11829614453168,0.0438207535939292
+"3 dpi","c3a.3","complement C3a, tandem duplicate 3",2.05077921597266,0.0438207535939292
+"3 dpi","cfb","complement factor B",2.30455955558378,0.0438207535939292
+"3 dpi","igfbp1a","insulin-like growth factor binding protein 1a",1.43638885662379,0.0438207535939292
